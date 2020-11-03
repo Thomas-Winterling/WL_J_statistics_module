@@ -47,7 +47,7 @@
                     type="integer"
                     default="600"
                     label="MOD_WL_STATISTICS_MODULE_CHARTHEIGT_LABEL"
-                    description="MOD_WL_STATISTICS_MODULE_CHARTHEIG_LABEL"
+                    description="MOD_WL_STATISTICS_MODULE_CHARTHEIGT_DESC"
                     first="300"
                     last="1000"
                     step="100"
