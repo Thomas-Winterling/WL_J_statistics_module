@@ -1,5 +1,5 @@
 <extension type="module" version="3.5.0" method="upgrade">
-<name>mod_statistics_module</name>
+<name>MOD_WL_STATISTICS_MODULE</name>
 <creationDate>12.11.2019</creationDate>
 <author>Thomas Winterling</author>
 <authorEmail>info@winterling-labs.com</authorEmail>
@@ -7,7 +7,7 @@
 <copyright>Copyright (C) 2005 - 2019. All rights reserved.</copyright>
 <license>GNU/GPLv2 only</license>
 <version>1.0.0</version>
-<description>MOD_STATISTICS_MODULE_XML_DESCRIPTION</description>
+<description>MOD_WL_STATISTICS_MODULE_XML_DESCRIPTION</description>
 <namespace path="src">Joomla\Module\StatisticsModule</namespace>
 <files>
     <filename module="mod_statistics_module">mod_statistics_module.php</filename>
